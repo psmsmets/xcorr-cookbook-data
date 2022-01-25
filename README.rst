@@ -2,8 +2,8 @@
 xcorr cookbook data 
 *************************************
 
-.. image:: https://zenodo.org/badge/451592540.svg
-   :target: https://zenodo.org/badge/latestdoi/451592540
+.. image:: https://zenodo.org/badge/451882711.svg
+   :target: https://zenodo.org/badge/latestdoi/451882711
 
 Datasets and notebooks of the `xcorr <https://github.com/psmsmets/xcorr>`_-based manuscript
 "Smets, Weemstra and Evers (2022), Hydroacoustic travel time variations as a
@@ -51,7 +51,7 @@ Acknowledgements
 If you publish results for which you used `xcorr <https://github.com/psmsmets/xcorr>`_
 or any of these datasets, please give credit by citing both the code DOI
 `10.5281/zenodo.5883341 <https:://doi.org/10.5281/zenodo.5883341>`_, the datasets DOI
-`10.5281/zenodo.5899153 <https://doi.org/10.5281/zenodo.5899153>`_, and the manuscript
+`10.5281/zenodo.5902705 <https://doi.org/10.5281/zenodo.5902705>`_, and the manuscript
 `Smets et al. (2022)  <#>`_ :
 
     Smets, Weemstra and Evers (2022),
@@ -62,7 +62,7 @@ or any of these datasets, please give credit by citing both the code DOI
 All stable releases have a dedicated Zenodo-DOI:
 
 - xcorr: `https:://doi.org/10.5281/zenodo.5883341 <https:://doi.org/10.5281/zenodo.5883341>`_
-- xcorr-cookbook-data: `https://doi.org/10.5281/zenodo.5899153 <https://doi.org/10.5281/zenodo.5899153>`_
+- xcorr-cookbook-data: `https://doi.org/10.5281/zenodo.5902705 <https://doi.org/10.5281/zenodo.5902705>`_
 
 License
 =======
