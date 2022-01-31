@@ -26,6 +26,7 @@ Directly accessible
 Large files via 4TU.ResearchData
 -----
 
+Large file datasets except all CFFs are available on 4TU.ResearchData with DOI `https://doi.org/10.4121/19063838 <https://doi.org/10.4121/19063838>`_
 - cross-correlations for IM.H03S[1-3]..EDH-IU.RAR.10.BH[RZ] of `2015.015 <https://pietersmets.be/xcorr-cookbook-data/cc__IM.H03S[1-3]..EDH-IU.RAR.10.BH[RZ]__2015015.nc>`_ and of `2015.228 <https://pietersmets.be/xcorr-cookbook-data/cc__IM.H03S[1-3]..EDH-IU.RAR.10.BH[RZ]__2015228.nc>`_
 - time-lapse analyses for IM.H03S1..EDH-IU.RAR.10.BHR and IM.H03S[1-3]..EDH-IU.RAR.10.BHZ from 2014.121 to 2020.366 `raw <https://pietersmets.be/xcorr-cookbook-data/timelapse__IM.H03S[1-3]..EDH-IU.RAR.10.BH[RZ]__2014121__2020366.nc>`_ and `filtered <https://pietersmets.be/xcorr-cookbook-data/timelapse__IM.H03S[1-3]..EDH-IU.RAR.10.BH[RZ]__2014121__2020366__filtered.nc>`_
 
