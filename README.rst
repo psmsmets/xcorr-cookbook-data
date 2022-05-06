@@ -7,8 +7,7 @@ xcorr cookbook data
 
 Datasets and notebooks of the `xcorr <https://github.com/psmsmets/xcorr>`_-based manuscript
 "Smets, Weemstra and Evers (2022), Hydroacoustic travel time variations as a
-proxy for passive deep-ocean thermometry - a cookbook, Journal (number),
-pages, DOI: doi.".
+proxy for passive deep-ocean thermometry - a cookbook, Journal of Geophysical Research - Oceans, doi: 10.1029/2022JC018451".
 
 
 Datasets
