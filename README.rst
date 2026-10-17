@@ -39,13 +39,13 @@ Notebooks
 
 Notebooks to reproduce all manuscript figures:
 
-- `Figure 1 (map) <notebooks/Figure 1 (map).ipynb>`_
-- `Figure 2-3 (waveforms) <notebooks/Figure 2-3 (waveforms).ipynb>`_
-- `Figure 4-6 (signal-to-noise ratio) <notebooks/Figure 4-6 (signal-to-noise ratio).ipynb>`_
-- `Figure 7-8 (beamform) <notebooks/Figure 7-8 (beamform).ipynb>`_
-- `Figure 9-14 (timelapse to variation) <notebooks/Figure 9-14 (timelapse to variation).ipynb>`_
-- `Figure 15 (surface wave response) <notebooks/Figure 15 (surface wave response).ipynb>`_
-- `Figure B1-2 C1-3 (timelapse) <notebooks/Figure B1-2 C1-3 (timelapse).ipynb>`_
+- `Figure 1 (map) <notebooks/Figure%201%20(map).ipynb>`_
+- `Figure 2-3 (waveforms) <notebooks/Figure%202-3%20(waveforms).ipynb>`_
+- `Figure 4-6 (signal-to-noise ratio) <notebooks/Figure%204-6%20(signal-to-noise%20ratio).ipynb>`_
+- `Figure 7-8 (beamform) <notebooks/Figure%207-8%20(beamform).ipynb>`_
+- `Figure 9-14 (timelapse to variation) <notebooks/Figure%209-14%20(timelapse%20to%20variation).ipynb>`_
+- `Figure 15 (surface wave response) <notebooks/Figure%2015%20(surface%20wave%20response).ipynb>`_
+- `Figure B1-2 C1-3 (timelapse) <notebooks/Figure%20B1-2%20C1-3%20(timelapse).ipynb>`_
 
 
 Acknowledgements
